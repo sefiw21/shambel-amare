@@ -25,8 +25,8 @@ I'm Shambel, a backend developer with a passion for building robust and scalable
   
 📫 Let's Connect
 
-[LinkedIn] (www.linkedin.com/in/shambelamare)
+[LinkedIn](www.linkedin.com/in/shambelamare)
 
-[Twitter] (@shambelamare21)
+[Twitter](@shambelamare21)
 
 Feel free to reach out if you want to discuss a project, collaborate on an open-source project, or just chat about technology and software development!
