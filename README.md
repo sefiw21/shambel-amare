@@ -21,7 +21,7 @@ I'm Shambel, a backend developer with a passion for building robust and scalable
 💼 Experience
 
 - Backend Developer at 2f-capital plc, where I was a core member of the development team working on microservices-based platform using Go.
-- Golang Developer at playtworobots, where I am a backend developer working on building high-performance Game engine for an innovative real-time card-game application.
+- Golang Developer at [playtworobots](https://www.tworobots.com/), where I am a backend developer working on building high-performance Game engine for an innovative real-time card-game application.
   
 📫 Let's Connect
 
