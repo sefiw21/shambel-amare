@@ -12,7 +12,7 @@ I'm Shambel, a backend developer with a passion for building robust and scalable
   
 🚀 What I Do
 
-- Designing and implementing scalable backend systems using Go and other technologies.
+- Designing and implementing scalable backend systems using Golang, Nodejs|Typescript and other technologies.
 - Writing clean, maintainable, and efficient code.
 - Developing RESTful APIs and microservices architectures.
 - Integrating third-party services and APIs.
